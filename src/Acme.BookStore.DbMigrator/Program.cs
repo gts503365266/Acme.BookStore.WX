@@ -36,5 +36,5 @@ namespace Acme.BookStore.DbMigrator
                 {
                     services.AddHostedService<DbMigratorHostedService>();
                 });
-    }
+    } 
 }
